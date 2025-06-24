@@ -35,7 +35,10 @@
   },
   "name":"Fnaf Nights At Freddies At Freddies",
   "resources":[
+    {"id":{"name":"obj_enemy_doorL","path":"objects/obj_enemy_doorL/obj_enemy_doorL.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_enemyplaceholderdoor1","path":"sprites/spr_enemyplaceholderdoor1/spr_enemyplaceholderdoor1.yy",},},
+    {"id":{"name":"spr_officeplaceholder","path":"sprites/spr_officeplaceholder/spr_officeplaceholder.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
